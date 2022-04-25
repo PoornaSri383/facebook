@@ -1,0 +1,62 @@
+.container {
+    background-color: rgb(228, 224, 224)
+}
+.h1 {
+    font-weight: 900;
+    font-family: "Montserrat";
+    font-size: 3rem;
+    color: rgb(32, 101, 230);
+    padding-top: 20%;
+    padding-left: 6%;
+    
+    
+}
+
+/* .info {
+    padding-left: 6%;
+} */
+
+
+.content {
+    font-family: "Ubuntu";
+    font-size: 1.7rem;
+    font-weight: bold;
+    padding-left: 6%;
+}
+
+
+.btn-color {
+    background-color: rgb(43, 174, 22);
+    color: white;
+}
+  /* Login Form */
+
+.login {
+    width: 350px;
+    height: 350px;
+    background-color: whitesmoke;
+    margin: 5% 8%;
+    /* margin-bottom: 5%; */
+}
+
+.forms {
+    padding: 50px 5%;
+
+}
+
+.inputs {
+    margin-bottom: 5%;
+    
+}
+.logIn-Button{
+    width: 300px;
+    height: 45px;
+}
+.account-button {
+    margin-top: 5%;
+    position: relative;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
